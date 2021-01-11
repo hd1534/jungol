@@ -13,19 +13,19 @@ https://jungol.co.kr/
 ```
 Language_Coder : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=10
     출력 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=1010
-        출력 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=138&sca=1010 ····································· ✔
-        출력 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=139&sca=1010 ····································· ✔
-        출력 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=140&sca=1010 ····································· ✔
-        출력 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=141&sca=1010 ····································· ✔
-        출력 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=142&sca=1010 ····································· ✔
-        출력 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=143&sca=1010 ····································· ✔
-        출력 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=144&sca=1010 ····································· ✔
-        출력 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=145&sca=1010 ····································· ✔
-        출력 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1&sca=1010 ······································· ✔
-        출력 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2&sca=1010 ······································· ✔
-        출력 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=3&sca=1010 ······································· ✔
-        출력 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=4&sca=1010 ······································· ✔
-        출력 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=5&sca=1010 ······································· ✔
+        출력 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=138&sca=1010 ························ ✔
+        출력 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=139&sca=1010 ························ ✔
+        출력 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=140&sca=1010 ························ ✔
+        출력 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=141&sca=1010 ························ ✔
+        출력 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=142&sca=1010 ························ ✔
+        출력 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=143&sca=1010 ························ ✔
+        출력 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=144&sca=1010 ························ ✔
+        출력 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=145&sca=1010 ························ ✔
+        출력 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1&sca=1010 ·························· ✔
+        출력 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2&sca=1010 ·························· ✔
+        출력 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=3&sca=1010 ·························· ✔
+        출력 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=4&sca=1010 ·························· ✔
+        출력 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=5&sca=1010 ·························· ✔
 
     입력 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=1020
         입력 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=146&sca=1020
@@ -392,12 +392,12 @@ Beginner_Coder : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=20
 
 Intermediate_Coder : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=30
     분할정복 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=3010
-        Tutorial   이진탐색(Binary Search-이진검색) : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2857&sca=3010
+        Tutorial   이진탐색 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2857&sca=3010
         제곱근 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=523&sca=3010
         모자이크 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=502&sca=3010
         숫자구슬 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=583&sca=3010
         Tutorial   퀵정렬(Quick Sort) : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2858&sca=3010
-        Tutorial   합병(병합)정렬(Merge Sort) : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2859&sca=3010
+        Tutorial   합병정렬(Merge Sort) : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2859&sca=3010
         Tutorial  STL Sort 1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=3882&sca=3010
         Tutorial  STL Sort 2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=3883&sca=3010
         Tutorial  STL Sort 3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2860&sca=3010
@@ -437,7 +437,7 @@ Intermediate_Coder : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=30
         버스 갈아타기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1839&sca=3040
 
     탐욕알고리즘 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=3050
-        Tutorial   그리디(Greedy - 탐욕, 욕심쟁이) 알고리즘 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2861&sca=3050
+        Tutorial   그리디 알고리즘 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2861&sca=3050
         외양간 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1089&sca=3050
         회의실 배정 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=645&sca=3050
         냉장고 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1101&sca=3050
