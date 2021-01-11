@@ -1,0 +1,1 @@
+<p align="center"><img src="색종이 만들기(영역구분) 문제.png" title="문제"></p>

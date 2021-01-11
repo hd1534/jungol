@@ -1,0 +1,1 @@
+<p align="center"><img src="Tutorial  STL Sort 2 문제.png" title="문제"></p>

@@ -1,0 +1,1 @@
+<p align="center"><img src="홀수 직사각형 문제.png" title="문제"></p>

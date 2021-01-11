@@ -1,0 +1,1 @@
+<p align="center"><img src="함수2 - 자가진단7 문제.png" title="문제"></p>

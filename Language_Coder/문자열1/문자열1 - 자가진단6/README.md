@@ -1,0 +1,1 @@
+<p align="center"><img src="문자열1 - 자가진단6 문제.png" title="문제"></p>

@@ -1,0 +1,1 @@
+<p align="center"><img src="가지치기 문제.png" title="문제"></p>

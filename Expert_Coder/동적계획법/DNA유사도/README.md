@@ -1,0 +1,1 @@
+<p align="center"><img src="DNA유사도 문제.png" title="문제"></p>

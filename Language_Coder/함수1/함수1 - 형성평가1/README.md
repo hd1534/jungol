@@ -1,0 +1,1 @@
+<p align="center"><img src="함수1 - 형성평가1 문제.png" title="문제"></p>

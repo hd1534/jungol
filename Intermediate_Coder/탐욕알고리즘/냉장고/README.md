@@ -1,0 +1,1 @@
+<p align="center"><img src="냉장고 문제.png" title="문제"></p>

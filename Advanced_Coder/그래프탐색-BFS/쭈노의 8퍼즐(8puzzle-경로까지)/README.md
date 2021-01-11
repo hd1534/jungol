@@ -1,0 +1,1 @@
+<p align="center"><img src="쭈노의 8퍼즐(8puzzle-경로까지) 문제.png" title="문제"></p>

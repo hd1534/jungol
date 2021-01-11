@@ -1,0 +1,1 @@
+<p align="center"><img src="생명체 분류 문제.png" title="문제"></p>

@@ -1,0 +1,1 @@
+<p align="center"><img src="동전 바꿔주기 문제.png" title="문제"></p>

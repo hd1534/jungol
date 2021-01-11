@@ -1,0 +1,1 @@
+<p align="center"><img src="화면 보호기(AKVARIJ) 문제.png" title="문제"></p>

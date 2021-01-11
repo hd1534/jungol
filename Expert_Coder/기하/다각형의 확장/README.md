@@ -1,0 +1,1 @@
+<p align="center"><img src="다각형의 확장 문제.png" title="문제"></p>

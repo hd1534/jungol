@@ -1,0 +1,1 @@
+<p align="center"><img src="최종 울트라-퀵 소트 문제.png" title="문제"></p>

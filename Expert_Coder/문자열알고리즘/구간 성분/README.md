@@ -1,0 +1,1 @@
+<p align="center"><img src="구간 성분 문제.png" title="문제"></p>

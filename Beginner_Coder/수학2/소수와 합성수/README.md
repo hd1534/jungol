@@ -1,0 +1,1 @@
+<p align="center"><img src="소수와 합성수 문제.png" title="문제"></p>

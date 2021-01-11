@@ -1,0 +1,1 @@
+<p align="center"><img src="약수 구하기 문제.png" title="문제"></p>

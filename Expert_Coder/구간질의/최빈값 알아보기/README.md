@@ -1,0 +1,1 @@
+<p align="center"><img src="최빈값 알아보기 문제.png" title="문제"></p>

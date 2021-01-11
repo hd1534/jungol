@@ -1,0 +1,1 @@
+<p align="center"><img src="양팔 저울 문제.png" title="문제"></p>

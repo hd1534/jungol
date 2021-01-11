@@ -1,0 +1,1 @@
+<p align="center"><img src="배낭채우기2 문제.png" title="문제"></p>

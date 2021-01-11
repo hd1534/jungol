@@ -1,0 +1,1 @@
+<p align="center"><img src="Tutorial   그리디(Greedy - 탐욕, 욕심쟁이) 알고리즘 문제.png" title="문제"></p>

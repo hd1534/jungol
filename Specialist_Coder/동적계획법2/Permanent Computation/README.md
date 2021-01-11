@@ -1,0 +1,1 @@
+<p align="center"><img src="Permanent Computation 문제.png" title="문제"></p>

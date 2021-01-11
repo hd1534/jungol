@@ -1,0 +1,1 @@
+<p align="center"><img src="세 줄로 타일 깔기(3열로 타일깔기) 문제.png" title="문제"></p>

@@ -1,0 +1,1 @@
+<p align="center"><img src="배열1 - 형성평가7 문제.png" title="문제"></p>

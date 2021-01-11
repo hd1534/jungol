@@ -1,0 +1,1 @@
+<p align="center"><img src="반복제어문3 - 자가진단1 문제.png" title="문제"></p>

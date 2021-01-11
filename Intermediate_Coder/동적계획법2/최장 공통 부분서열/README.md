@@ -1,0 +1,1 @@
+<p align="center"><img src="최장 공통 부분서열 문제.png" title="문제"></p>

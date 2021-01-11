@@ -1,0 +1,1 @@
+<p align="center"><img src="부서 배치 문제.png" title="문제"></p>

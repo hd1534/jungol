@@ -1,0 +1,1 @@
+<p align="center"><img src="활자인쇄기(Type Printer) 문제.png" title="문제"></p>

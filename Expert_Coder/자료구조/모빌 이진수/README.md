@@ -1,0 +1,1 @@
+<p align="center"><img src="모빌 이진수 문제.png" title="문제"></p>

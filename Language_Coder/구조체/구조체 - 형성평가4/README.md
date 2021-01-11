@@ -1,0 +1,1 @@
+<p align="center"><img src="구조체 - 형성평가4 문제.png" title="문제"></p>

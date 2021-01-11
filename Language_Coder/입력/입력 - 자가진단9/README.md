@@ -1,0 +1,1 @@
+<p align="center"><img src="입력 - 자가진단9 문제.png" title="문제"></p>

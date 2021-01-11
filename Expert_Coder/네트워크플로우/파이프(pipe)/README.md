@@ -1,0 +1,1 @@
+<p align="center"><img src="파이프(pipe) 문제.png" title="문제"></p>

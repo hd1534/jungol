@@ -1,0 +1,1 @@
+<p align="center"><img src="가까운 짝 찾기(Pairs) 1 문제.png" title="문제"></p>

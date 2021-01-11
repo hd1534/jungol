@@ -1,0 +1,1 @@
+<p align="center"><img src="외양간 문제.png" title="문제"></p>

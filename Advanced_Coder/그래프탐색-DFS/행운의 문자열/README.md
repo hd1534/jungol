@@ -1,0 +1,1 @@
+<p align="center"><img src="행운의 문자열 문제.png" title="문제"></p>

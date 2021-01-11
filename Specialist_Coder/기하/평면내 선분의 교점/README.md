@@ -1,0 +1,1 @@
+<p align="center"><img src="평면내 선분의 교점 문제.png" title="문제"></p>

@@ -1,0 +1,1 @@
+<p align="center"><img src="직각이등변삼각형찾기 문제.png" title="문제"></p>

@@ -1,0 +1,1 @@
+<p align="center"><img src="디버깅 - 형성평가4 문제.png" title="문제"></p>

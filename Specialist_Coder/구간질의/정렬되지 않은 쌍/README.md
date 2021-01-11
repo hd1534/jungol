@@ -1,0 +1,1 @@
+<p align="center"><img src="정렬되지 않은 쌍 문제.png" title="문제"></p>

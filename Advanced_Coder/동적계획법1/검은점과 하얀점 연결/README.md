@@ -1,0 +1,1 @@
+<p align="center"><img src="검은점과 하얀점 연결 문제.png" title="문제"></p>

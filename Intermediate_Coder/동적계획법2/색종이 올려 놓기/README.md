@@ -1,0 +1,1 @@
+<p align="center"><img src="색종이 올려 놓기 문제.png" title="문제"></p>

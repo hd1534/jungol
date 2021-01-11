@@ -1,0 +1,1 @@
+<p align="center"><img src="문자삼각형1 문제.png" title="문제"></p>

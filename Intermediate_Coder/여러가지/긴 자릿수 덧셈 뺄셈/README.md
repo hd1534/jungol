@@ -1,0 +1,1 @@
+<p align="center"><img src="긴 자릿수 덧셈 뺄셈 문제.png" title="문제"></p>

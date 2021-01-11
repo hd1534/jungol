@@ -1,0 +1,1 @@
+<p align="center"><img src="극장 좌석 문제.png" title="문제"></p>

@@ -1,0 +1,1 @@
+<p align="center"><img src="같은 길이 막대기 만들기(구성까지 출력) 문제.png" title="문제"></p>

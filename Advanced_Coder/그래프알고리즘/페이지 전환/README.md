@@ -1,0 +1,1 @@
+<p align="center"><img src="페이지 전환 문제.png" title="문제"></p>

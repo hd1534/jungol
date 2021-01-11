@@ -1,0 +1,1 @@
+<p align="center"><img src="조개 줍기 문제.png" title="문제"></p>

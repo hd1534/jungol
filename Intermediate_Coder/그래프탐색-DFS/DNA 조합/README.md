@@ -1,0 +1,1 @@
+<p align="center"><img src="DNA 조합 문제.png" title="문제"></p>

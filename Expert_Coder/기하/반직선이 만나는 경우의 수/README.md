@@ -1,0 +1,1 @@
+<p align="center"><img src="반직선이 만나는 경우의 수 문제.png" title="문제"></p>

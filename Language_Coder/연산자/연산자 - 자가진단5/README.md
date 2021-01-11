@@ -1,0 +1,1 @@
+<p align="center"><img src="연산자 - 자가진단5 문제.png" title="문제"></p>

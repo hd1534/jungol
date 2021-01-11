@@ -1,0 +1,1 @@
+<p align="center"><img src="색종이 만들기3(압축해제) 문제.png" title="문제"></p>

@@ -1,0 +1,1 @@
+<p align="center"><img src="스위치2(Light Switching) 문제.png" title="문제"></p>

@@ -1,0 +1,1 @@
+<p align="center"><img src="제곱수 출력 문제.png" title="문제"></p>

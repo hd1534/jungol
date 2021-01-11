@@ -1,0 +1,1 @@
+<p align="center"><img src="L 모양의 종이 자르기 문제.png" title="문제"></p>

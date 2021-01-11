@@ -1,0 +1,1 @@
+<p align="center"><img src="dynamic구간의 합 구하기(1D) 문제.png" title="문제"></p>

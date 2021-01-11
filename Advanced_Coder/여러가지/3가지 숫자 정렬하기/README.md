@@ -1,0 +1,1 @@
+<p align="center"><img src="3가지 숫자 정렬하기 문제.png" title="문제"></p>

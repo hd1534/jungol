@@ -1,0 +1,1 @@
+<p align="center"><img src="자동차경주대회 문제.png" title="문제"></p>

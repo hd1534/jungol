@@ -1,0 +1,1 @@
+<p align="center"><img src="긴 자릿수 나눗셈 문제.png" title="문제"></p>

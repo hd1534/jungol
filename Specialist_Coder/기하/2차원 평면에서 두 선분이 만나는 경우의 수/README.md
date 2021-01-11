@@ -1,0 +1,1 @@
+<p align="center"><img src="2차원 평면에서 두 선분이 만나는 경우의 수 문제.png" title="문제"></p>

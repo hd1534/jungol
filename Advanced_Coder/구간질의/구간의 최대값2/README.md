@@ -1,0 +1,1 @@
+<p align="center"><img src="구간의 최대값2 문제.png" title="문제"></p>

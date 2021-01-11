@@ -1,0 +1,1 @@
+<p align="center"><img src="요세푸스 문제 1 문제.png" title="문제"></p>

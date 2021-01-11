@@ -1,0 +1,1 @@
+<p align="center"><img src="등수 찾기(ranking) 문제.png" title="문제"></p>

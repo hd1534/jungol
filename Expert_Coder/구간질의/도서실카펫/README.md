@@ -1,0 +1,1 @@
+<p align="center"><img src="도서실카펫 문제.png" title="문제"></p>

@@ -1,0 +1,1 @@
+<p align="center"><img src="현금 인출기(ATM) 문제.png" title="문제"></p>

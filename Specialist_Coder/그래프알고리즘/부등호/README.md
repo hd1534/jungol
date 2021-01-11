@@ -1,0 +1,1 @@
+<p align="center"><img src="부등호 문제.png" title="문제"></p>

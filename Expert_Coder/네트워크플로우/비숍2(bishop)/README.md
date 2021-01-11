@@ -1,0 +1,1 @@
+<p align="center"><img src="비숍2(bishop) 문제.png" title="문제"></p>

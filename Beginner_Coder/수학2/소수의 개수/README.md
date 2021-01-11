@@ -1,0 +1,1 @@
+<p align="center"><img src="소수의 개수 문제.png" title="문제"></p>

@@ -1,0 +1,1 @@
+<p align="center"><img src="절점 찾기 문제.png" title="문제"></p>

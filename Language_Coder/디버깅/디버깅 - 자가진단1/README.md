@@ -1,0 +1,1 @@
+<p align="center"><img src="디버깅 - 자가진단1 문제.png" title="문제"></p>

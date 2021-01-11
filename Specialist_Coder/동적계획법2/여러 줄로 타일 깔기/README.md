@@ -1,0 +1,1 @@
+<p align="center"><img src="여러 줄로 타일 깔기 문제.png" title="문제"></p>

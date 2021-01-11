@@ -1,0 +1,1 @@
+<p align="center"><img src="점핑 사다리 문제.png" title="문제"></p>

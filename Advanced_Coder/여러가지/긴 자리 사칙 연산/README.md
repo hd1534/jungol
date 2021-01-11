@@ -1,0 +1,1 @@
+<p align="center"><img src="긴 자리 사칙 연산 문제.png" title="문제"></p>

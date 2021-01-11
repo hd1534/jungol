@@ -1,0 +1,1 @@
+<p align="center"><img src="2진수를 10진수로 문제.png" title="문제"></p>

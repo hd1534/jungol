@@ -1,0 +1,1 @@
+<p align="center"><img src="비트연산 1 문제.png" title="문제"></p>

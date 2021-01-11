@@ -1,0 +1,1 @@
+<p align="center"><img src="선택제어문 - 자가진단5 문제.png" title="문제"></p>

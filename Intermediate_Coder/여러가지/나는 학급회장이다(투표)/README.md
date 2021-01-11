@@ -1,0 +1,1 @@
+<p align="center"><img src="나는 학급회장이다(투표) 문제.png" title="문제"></p>

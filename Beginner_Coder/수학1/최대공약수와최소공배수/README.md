@@ -1,0 +1,1 @@
+<p align="center"><img src="최대공약수와최소공배수 문제.png" title="문제"></p>

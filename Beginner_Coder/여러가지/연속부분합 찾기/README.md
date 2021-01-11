@@ -1,0 +1,1 @@
+<p align="center"><img src="연속부분합 찾기 문제.png" title="문제"></p>

@@ -1,0 +1,1 @@
+<p align="center"><img src="여러 직사각형의 전체 면적 구하기 문제.png" title="문제"></p>

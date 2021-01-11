@@ -1,0 +1,1 @@
+<p align="center"><img src="주사위 던지기1 문제.png" title="문제"></p>

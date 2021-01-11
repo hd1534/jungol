@@ -1,0 +1,1 @@
+<p align="center"><img src="로또(Lotto) 문제.png" title="문제"></p>

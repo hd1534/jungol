@@ -1,0 +1,1 @@
+<p align="center"><img src="각 자리수의 역과 합(Number Reverse) 문제.png" title="문제"></p>

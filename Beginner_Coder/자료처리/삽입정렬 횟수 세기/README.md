@@ -1,0 +1,1 @@
+<p align="center"><img src="삽입정렬 횟수 세기 문제.png" title="문제"></p>
