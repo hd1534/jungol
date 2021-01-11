@@ -13,19 +13,19 @@ https://jungol.co.kr/
 ```
 Language_Coder : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=10
     출력 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=1010
-        출력 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=138&sca=1010
-        출력 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=139&sca=1010
-        출력 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=140&sca=1010
-        출력 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=141&sca=1010
-        출력 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=142&sca=1010
-        출력 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=143&sca=1010
-        출력 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=144&sca=1010
-        출력 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=145&sca=1010
-        출력 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1&sca=1010
-        출력 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2&sca=1010
-        출력 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=3&sca=1010
-        출력 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=4&sca=1010
-        출력 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=5&sca=1010
+        출력 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=138&sca=1010 ····································· ✔
+        출력 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=139&sca=1010 ····································· ✔
+        출력 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=140&sca=1010 ····································· ✔
+        출력 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=141&sca=1010 ····································· ✔
+        출력 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=142&sca=1010 ····································· ✔
+        출력 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=143&sca=1010 ····································· ✔
+        출력 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=144&sca=1010 ····································· ✔
+        출력 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=145&sca=1010 ····································· ✔
+        출력 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1&sca=1010 ······································· ✔
+        출력 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2&sca=1010 ······································· ✔
+        출력 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=3&sca=1010 ······································· ✔
+        출력 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=4&sca=1010 ······································· ✔
+        출력 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=5&sca=1010 ······································· ✔
 
     입력 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=1020
         입력 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=146&sca=1020
