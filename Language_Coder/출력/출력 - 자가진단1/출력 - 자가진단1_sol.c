@@ -1,6 +1,5 @@
-#include<stdio.h>
-
-int main(int argc, char *argv[]) {
-    printf("%d, %s",argc, argv[0]);
+#include <stdio.h>
+int main() {
+    printf("Fun Programming!");
     return 0;
 }
