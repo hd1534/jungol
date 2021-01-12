@@ -135,188 +135,188 @@ Language_Coder : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=10
         반복제어문3 - 형성평가A : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=49&sca=1080 ················PASS
 
     배열1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=1090
-        배열1 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=192&sca=1090 ····················PASS
-        배열1 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=193&sca=1090 ····················PASS
-        배열1 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=194&sca=1090 ····················PASS
-        배열1 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=195&sca=1090 ····················PASS
-        배열1 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=196&sca=1090 ····················PASS
-        배열1 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=197&sca=1090 ····················PASS
-        배열1 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=198&sca=1090 ····················PASS
-        배열1 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=199&sca=1090 ····················PASS
-        배열1 - 자가진단9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=200&sca=1090 ····················PASS
-        배열1 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=50&sca=1090 ·····················PASS
-        배열1 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=51&sca=1090 ·····················PASS
-        배열1 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=52&sca=1090 ·····················PASS
-        배열1 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=53&sca=1090 ·····················PASS
-        배열1 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=54&sca=1090 ·····················PASS
-        배열1 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=55&sca=1090 ·····················PASS
-        배열1 - 형성평가7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=56&sca=1090 ·····················PASS
-        배열1 - 형성평가8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=57&sca=1090 ·····················PASS
-        배열1 - 형성평가9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=58&sca=1090 ·····················PASS
-        배열1 - 형성평가A : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=59&sca=1090 ·····················PASS
+        배열1 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=192&sca=1090 ·····················PASS
+        배열1 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=193&sca=1090 ·····················PASS
+        배열1 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=194&sca=1090 ·····················PASS
+        배열1 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=195&sca=1090 ·····················PASS
+        배열1 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=196&sca=1090 ·····················PASS
+        배열1 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=197&sca=1090 ·····················PASS
+        배열1 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=198&sca=1090 ·····················PASS
+        배열1 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=199&sca=1090 ·····················PASS
+        배열1 - 자가진단9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=200&sca=1090 ·····················PASS
+        배열1 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=50&sca=1090 ······················PASS
+        배열1 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=51&sca=1090 ······················PASS
+        배열1 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=52&sca=1090 ······················PASS
+        배열1 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=53&sca=1090 ······················PASS
+        배열1 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=54&sca=1090 ······················PASS
+        배열1 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=55&sca=1090 ······················PASS
+        배열1 - 형성평가7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=56&sca=1090 ······················PASS
+        배열1 - 형성평가8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=57&sca=1090 ······················PASS
+        배열1 - 형성평가9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=58&sca=1090 ······················PASS
+        배열1 - 형성평가A : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=59&sca=1090 ······················PASS
 
     배열2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=10a0
-        배열2 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=201&sca=10a0 ····················PASS
-        배열2 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=202&sca=10a0 ····················PASS
-        배열2 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=203&sca=10a0 ····················PASS
-        배열2 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=204&sca=10a0 ····················PASS
-        배열2 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=205&sca=10a0 ····················PASS
-        배열2 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=206&sca=10a0 ····················PASS
-        배열2 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=207&sca=10a0 ····················PASS
-        배열2 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=60&sca=10a0 ·····················PASS
-        배열2 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=61&sca=10a0 ·····················PASS
-        배열2 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=62&sca=10a0 ·····················PASS
-        배열2 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=63&sca=10a0 ·····················PASS
-        배열2 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=64&sca=10a0 ·····················PASS
-        배열2 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=65&sca=10a0 ·····················PASS
-        배열2 - 형성평가7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=66&sca=10a0 ·····················PASS
-        배열2 - 형성평가8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=67&sca=10a0 ·····················PASS
-        배열2 - 형성평가9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=68&sca=10a0 ·····················PASS
-        배열2 - 형성평가A : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=69&sca=10a0 ·····················PASS
+        배열2 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=201&sca=10a0 ·····················PASS
+        배열2 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=202&sca=10a0 ·····················PASS
+        배열2 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=203&sca=10a0 ·····················PASS
+        배열2 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=204&sca=10a0 ·····················PASS
+        배열2 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=205&sca=10a0 ·····················PASS
+        배열2 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=206&sca=10a0 ·····················PASS
+        배열2 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=207&sca=10a0 ·····················PASS
+        배열2 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=60&sca=10a0 ······················PASS
+        배열2 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=61&sca=10a0 ······················PASS
+        배열2 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=62&sca=10a0 ······················PASS
+        배열2 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=63&sca=10a0 ······················PASS
+        배열2 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=64&sca=10a0 ······················PASS
+        배열2 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=65&sca=10a0 ······················PASS
+        배열2 - 형성평가7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=66&sca=10a0 ······················PASS
+        배열2 - 형성평가8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=67&sca=10a0 ······················PASS
+        배열2 - 형성평가9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=68&sca=10a0 ······················PASS
+        배열2 - 형성평가A : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=69&sca=10a0 ······················PASS
 
     함수1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=10b0
-        함수1 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=208&sca=10b0 ····················PASS
-        함수1 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=209&sca=10b0 ····················PASS
-        함수1 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=210&sca=10b0 ····················PASS
-        함수1 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=211&sca=10b0 ····················PASS
-        함수1 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=212&sca=10b0 ····················PASS
-        함수1 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=213&sca=10b0 ····················PASS
-        함수1 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=214&sca=10b0 ····················PASS
-        함수1 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=215&sca=10b0 ····················PASS
-        함수1 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=70&sca=10b0 ·····················PASS
-        함수1 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=71&sca=10b0 ·····················PASS
-        함수1 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=72&sca=10b0 ·····················PASS
-        함수1 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=73&sca=10b0 ·····················PASS
-        함수1 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=74&sca=10b0 ·····················PASS
+        함수1 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=208&sca=10b0 ·····················PASS
+        함수1 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=209&sca=10b0 ·····················PASS
+        함수1 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=210&sca=10b0 ·····················PASS
+        함수1 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=211&sca=10b0 ·····················PASS
+        함수1 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=212&sca=10b0 ·····················PASS
+        함수1 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=213&sca=10b0 ·····················PASS
+        함수1 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=214&sca=10b0 ·····················PASS
+        함수1 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=215&sca=10b0 ·····················PASS
+        함수1 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=70&sca=10b0 ······················PASS
+        함수1 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=71&sca=10b0 ······················PASS
+        함수1 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=72&sca=10b0 ······················PASS
+        함수1 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=73&sca=10b0 ······················PASS
+        함수1 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=74&sca=10b0 ······················PASS
 
     함수2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=10c0
-        함수2 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=216&sca=10c0 ····················PASS
-        함수2 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=217&sca=10c0 ····················PASS
-        함수2 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=218&sca=10c0 ····················PASS
-        함수2 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=219&sca=10c0 ····················PASS
-        함수2 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=220&sca=10c0 ····················PASS
-        함수2 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=221&sca=10c0 ····················PASS
-        함수2 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=222&sca=10c0 ····················PASS
-        함수2 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=223&sca=10c0 ····················PASS
-        함수2 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=75&sca=10c0 ·····················PASS
-        함수2 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=76&sca=10c0 ·····················PASS
-        함수2 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=77&sca=10c0 ·····················PASS
-        함수2 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=78&sca=10c0 ·····················PASS
-        함수2 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=79&sca=10c0 ·····················PASS
-        함수2 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=80&sca=10c0 ·····················PASS
-        함수2 - 형성평가7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=81&sca=10c0 ·····················PASS
+        함수2 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=216&sca=10c0 ·····················PASS
+        함수2 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=217&sca=10c0 ·····················PASS
+        함수2 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=218&sca=10c0 ·····················PASS
+        함수2 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=219&sca=10c0 ·····················PASS
+        함수2 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=220&sca=10c0 ·····················PASS
+        함수2 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=221&sca=10c0 ·····················PASS
+        함수2 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=222&sca=10c0 ·····················PASS
+        함수2 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=223&sca=10c0 ·····················PASS
+        함수2 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=75&sca=10c0 ······················PASS
+        함수2 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=76&sca=10c0 ······················PASS
+        함수2 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=77&sca=10c0 ······················PASS
+        함수2 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=78&sca=10c0 ······················PASS
+        함수2 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=79&sca=10c0 ······················PASS
+        함수2 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=80&sca=10c0 ······················PASS
+        함수2 - 형성평가7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=81&sca=10c0 ······················PASS
 
     함수3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=10d0
-        함수3 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=224&sca=10d0 ····················PASS
-        함수3 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=225&sca=10d0 ····················PASS
-        함수3 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=226&sca=10d0 ····················PASS
-        함수3 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=229&sca=10d0 ····················PASS
-        함수3 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=227&sca=10d0 ····················PASS
-        함수3 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=228&sca=10d0 ····················PASS
-        함수3 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=131&sca=10d0 ····················PASS
-        함수3 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=132&sca=10d0 ····················PASS
-        함수3 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=133&sca=10d0 ····················PASS
-        함수3 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=134&sca=10d0 ····················PASS
-        함수3 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=135&sca=10d0 ····················PASS
-        함수3 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=136&sca=10d0 ····················PASS
+        함수3 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=224&sca=10d0 ·····················PASS
+        함수3 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=225&sca=10d0 ·····················PASS
+        함수3 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=226&sca=10d0 ·····················PASS
+        함수3 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=229&sca=10d0 ·····················PASS
+        함수3 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=227&sca=10d0 ·····················PASS
+        함수3 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=228&sca=10d0 ·····················PASS
+        함수3 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=131&sca=10d0 ·····················PASS
+        함수3 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=132&sca=10d0 ·····················PASS
+        함수3 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=133&sca=10d0 ·····················PASS
+        함수3 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=134&sca=10d0 ·····················PASS
+        함수3 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=135&sca=10d0 ·····················PASS
+        함수3 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=136&sca=10d0 ·····················PASS
 
     문자열1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=10e0
-        문자열1 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=230&sca=10e0 ··················PASS
-        문자열1 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=231&sca=10e0 ··················PASS
-        문자열1 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=232&sca=10e0 ··················PASS
-        문자열1 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=233&sca=10e0 ··················PASS
-        문자열1 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=234&sca=10e0 ··················PASS
-        문자열1 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=235&sca=10e0 ··················PASS
-        문자열1 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=236&sca=10e0 ··················PASS
-        문자열1 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=237&sca=10e0 ··················PASS
-        문자열1 - 자가진단9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=238&sca=10e0 ··················PASS
-        문자열1 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=82&sca=10e0 ···················PASS
-        문자열1 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=83&sca=10e0 ···················PASS
-        문자열1 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=84&sca=10e0 ···················PASS
-        문자열1 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=85&sca=10e0 ···················PASS
-        문자열1 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=86&sca=10e0 ···················PASS
-        문자열1 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=87&sca=10e0 ···················PASS
-        문자열1 - 형성평가7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=88&sca=10e0 ···················PASS
+        문자열1 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=230&sca=10e0 ···················PASS
+        문자열1 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=231&sca=10e0 ···················PASS
+        문자열1 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=232&sca=10e0 ···················PASS
+        문자열1 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=233&sca=10e0 ···················PASS
+        문자열1 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=234&sca=10e0 ···················PASS
+        문자열1 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=235&sca=10e0 ···················PASS
+        문자열1 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=236&sca=10e0 ···················PASS
+        문자열1 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=237&sca=10e0 ···················PASS
+        문자열1 - 자가진단9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=238&sca=10e0 ···················PASS
+        문자열1 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=82&sca=10e0 ····················PASS
+        문자열1 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=83&sca=10e0 ····················PASS
+        문자열1 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=84&sca=10e0 ····················PASS
+        문자열1 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=85&sca=10e0 ····················PASS
+        문자열1 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=86&sca=10e0 ····················PASS
+        문자열1 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=87&sca=10e0 ····················PASS
+        문자열1 - 형성평가7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=88&sca=10e0 ····················PASS
 
     문자열2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=10f0
-        문자열2 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=239&sca=10f0 ··················PASS
-        문자열2 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=240&sca=10f0 ··················PASS
-        문자열2 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=241&sca=10f0 ··················PASS
-        문자열2 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=242&sca=10f0 ··················PASS
-        문자열2 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=243&sca=10f0 ··················PASS
-        문자열2 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=244&sca=10f0 ··················PASS
-        문자열2 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=245&sca=10f0 ··················PASS
-        문자열2 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=246&sca=10f0 ··················PASS
-        문자열2 - 자가진단9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=247&sca=10f0 ··················PASS
-        문자열2 - 자가진단A : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=248&sca=10f0 ··················PASS
-        문자열2 - 자가진단B : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=249&sca=10f0 ··················PASS
-        문자열2 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=89&sca=10f0 ···················PASS
-        문자열2 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=90&sca=10f0 ···················PASS
-        문자열2 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=91&sca=10f0 ···················PASS
-        문자열2 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=92&sca=10f0 ···················PASS
-        문자열2 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=93&sca=10f0 ···················PASS
-        문자열2 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=94&sca=10f0 ···················PASS
-        문자열2 - 형성평가7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=115&sca=10f0 ··················PASS
-        문자열2 - 형성평가8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=116&sca=10f0 ··················PASS
-        문자열2 - 형성평가9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=137&sca=10f0 ··················PASS
+        문자열2 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=239&sca=10f0 ···················PASS
+        문자열2 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=240&sca=10f0 ···················PASS
+        문자열2 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=241&sca=10f0 ···················PASS
+        문자열2 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=242&sca=10f0 ···················PASS
+        문자열2 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=243&sca=10f0 ···················PASS
+        문자열2 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=244&sca=10f0 ···················PASS
+        문자열2 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=245&sca=10f0 ···················PASS
+        문자열2 - 자가진단8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=246&sca=10f0 ···················PASS
+        문자열2 - 자가진단9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=247&sca=10f0 ···················PASS
+        문자열2 - 자가진단A : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=248&sca=10f0 ···················PASS
+        문자열2 - 자가진단B : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=249&sca=10f0 ···················PASS
+        문자열2 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=89&sca=10f0 ····················PASS
+        문자열2 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=90&sca=10f0 ····················PASS
+        문자열2 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=91&sca=10f0 ····················PASS
+        문자열2 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=92&sca=10f0 ····················PASS
+        문자열2 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=93&sca=10f0 ····················PASS
+        문자열2 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=94&sca=10f0 ····················PASS
+        문자열2 - 형성평가7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=115&sca=10f0 ···················PASS
+        문자열2 - 형성평가8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=116&sca=10f0 ···················PASS
+        문자열2 - 형성평가9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=137&sca=10f0 ···················PASS
 
     구조체 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=10g0
-        구조체 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=250&sca=10g0 ···················PASS
-        구조체 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=251&sca=10g0 ···················PASS
-        구조체 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=252&sca=10g0 ···················PASS
-        구조체 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=253&sca=10g0 ···················PASS
-        구조체 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=254&sca=10g0 ···················PASS
-        구조체 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=255&sca=10g0 ···················PASS
-        구조체 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=95&sca=10g0 ····················PASS
-        구조체 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=96&sca=10g0 ····················PASS
-        구조체 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=97&sca=10g0 ····················PASS
-        구조체 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=98&sca=10g0 ····················PASS
-        구조체 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=99&sca=10g0 ····················PASS
+        구조체 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=250&sca=10g0 ····················PASS
+        구조체 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=251&sca=10g0 ····················PASS
+        구조체 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=252&sca=10g0 ····················PASS
+        구조체 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=253&sca=10g0 ····················PASS
+        구조체 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=254&sca=10g0 ····················PASS
+        구조체 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=255&sca=10g0 ····················PASS
+        구조체 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=95&sca=10g0 ·····················PASS
+        구조체 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=96&sca=10g0 ·····················PASS
+        구조체 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=97&sca=10g0 ·····················PASS
+        구조체 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=98&sca=10g0 ·····················PASS
+        구조체 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=99&sca=10g0 ·····················PASS
 
-    포인터 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=10h0
-        포인터 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=256&sca=10h0 ···················PASS
-        포인터 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=257&sca=10h0 ···················PASS
-        포인터 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=258&sca=10h0 ···················PASS
-        포인터 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=259&sca=10h0 ···················PASS
-        포인터 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=260&sca=10h0 ···················PASS
-        포인터 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=261&sca=10h0 ···················PASS
-        포인터 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=262&sca=10h0 ···················PASS
-        포인터 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=100&sca=10h0 ···················PASS
-        포인터 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=101&sca=10h0 ···················PASS
-        포인터 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=102&sca=10h0 ···················PASS
-        포인터 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=103&sca=10h0 ···················PASS
-        포인터 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=104&sca=10h0 ···················PASS
+    포인터 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=10h0·
+        포인터 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=256&sca=10h0 ····················PASS
+        포인터 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=257&sca=10h0 ····················PASS
+        포인터 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=258&sca=10h0 ····················PASS
+        포인터 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=259&sca=10h0 ····················PASS
+        포인터 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=260&sca=10h0 ····················PASS
+        포인터 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=261&sca=10h0 ····················PASS
+        포인터 - 자가진단7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=262&sca=10h0 ····················PASS
+        포인터 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=100&sca=10h0 ····················PASS
+        포인터 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=101&sca=10h0 ····················PASS
+        포인터 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=102&sca=10h0 ····················PASS
+        포인터 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=103&sca=10h0 ····················PASS
+        포인터 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=104&sca=10h0 ····················PASS
 
     파일입출력 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=10i0
-        파일입출력 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=263&sca=10i0 ···············PASS
-        파일입출력 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=264&sca=10i0 ···············PASS
-        파일입출력 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=265&sca=10i0 ···············PASS
-        파일입출력 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=266&sca=10i0 ···············PASS
-        파일입출력 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=267&sca=10i0 ···············PASS
-        파일입출력 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=268&sca=10i0 ···············PASS
-        파일입출력 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=105&sca=10i0 ···············PASS
-        파일입출력 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=106&sca=10i0 ···············PASS
-        파일입출력 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=107&sca=10i0 ···············PASS
-        파일입출력 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=108&sca=10i0 ···············PASS
-        파일입출력 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=109&sca=10i0 ···············PASS
-        파일입출력 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=110&sca=10i0 ···············PASS
-        파일입출력 - 형성평가7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=111&sca=10i0 ···············PASS
-        파일입출력 - 형성평가8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=112&sca=10i0 ···············PASS
-        파일입출력 - 형성평가9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=113&sca=10i0 ···············PASS
-        파일입출력 - 형성평가A : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=114&sca=10i0 ···············PASS
+        파일입출력 - 자가진단1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=263&sca=10i0 ················PASS
+        파일입출력 - 자가진단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=264&sca=10i0 ················PASS
+        파일입출력 - 자가진단3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=265&sca=10i0 ················PASS
+        파일입출력 - 자가진단4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=266&sca=10i0 ················PASS
+        파일입출력 - 자가진단5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=267&sca=10i0 ················PASS
+        파일입출력 - 자가진단6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=268&sca=10i0 ················PASS
+        파일입출력 - 형성평가1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=105&sca=10i0 ················PASS
+        파일입출력 - 형성평가2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=106&sca=10i0 ················PASS
+        파일입출력 - 형성평가3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=107&sca=10i0 ················PASS
+        파일입출력 - 형성평가4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=108&sca=10i0 ················PASS
+        파일입출력 - 형성평가5 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=109&sca=10i0 ················PASS
+        파일입출력 - 형성평가6 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=110&sca=10i0 ················PASS
+        파일입출력 - 형성평가7 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=111&sca=10i0 ················PASS
+        파일입출력 - 형성평가8 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=112&sca=10i0 ················PASS
+        파일입출력 - 형성평가9 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=113&sca=10i0 ················PASS
+        파일입출력 - 형성평가A : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=114&sca=10i0 ················PASS
 
 Beginner_Coder : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=20
     도형만들기1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=2010
-        구구단 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=574&sca=2010
-        구구단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2076&sca=2010
-        숫자사각형1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2069&sca=2010
-        숫자사각형2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1129&sca=2010
-        숫자사각형3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2070&sca=2010
-        숫자사각형4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1316&sca=2010
-        문자사각형1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2071&sca=2010
-        문자사각형2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2072&sca=2010
-        문자삼각형1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2074&sca=2010
-        문자삼각형2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2075&sca=2010
+        구구단 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=574&sca=2010 ································· ✔
+        구구단2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2076&sca=2010 ······························· ✔
+        숫자사각형1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2069&sca=2010 ··························· ✔
+        숫자사각형2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1129&sca=2010 ··························· ✔
+        숫자사각형3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2070&sca=2010 ··························· ✔
+        숫자사각형4 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1316&sca=2010 ··························· ✔
+        문자사각형1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2071&sca=2010 ··························· ✔
+        문자사각형2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2072&sca=2010 ··························· ✔
+        문자삼각형1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2074&sca=2010 ··························· ✔
+        문자삼각형2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2075&sca=2010 ··························· ✔
 
     도형만들기2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=2020
         별삼각형1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=795&sca=2020
