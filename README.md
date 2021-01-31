@@ -319,23 +319,23 @@ Beginner_Coder : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=20
         문자삼각형2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2075&sca=2010 ··························· ✔
 
     도형만들기2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=2020
-        별삼각형1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=795&sca=2020 ····························PASS
-        별삼각형2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=992&sca=2020 ····························PASS
-        별삼각형3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=608&sca=2020 ····························PASS
-        숫자삼각형 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=914&sca=2020 ···························PASS
-        달팽이삼각형 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=609&sca=2020 ·························PASS
-        파스칼 삼각형 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1335&sca=2020 ·······················PASS
-        달팽이사각형 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=980&sca=2020 ·························PASS
-        문자마름모 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2073&sca=2020 ··························PASS
-        대각선 지그재그 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=767&sca=2020 ······················PASS
-        홀수 마방진 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1338&sca=2020 ·························PASS
+        별삼각형1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=795&sca=2020 ······························ ✔
+        별삼각형2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=992&sca=2020 ······························ ✔
+        별삼각형3 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=608&sca=2020 ······························ ✔
+        숫자삼각형 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=914&sca=2020 ····························· ✔
+        달팽이삼각형 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=609&sca=2020 ··························· ✔
+        파스칼 삼각형 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1335&sca=2020 ························· ✔
+        달팽이사각형 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=980&sca=2020 ··························· ✔
+        문자마름모 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2073&sca=2020 ···························· ✔
+        대각선 지그재그 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=767&sca=2020 ·······················PASS
+        홀수 마방진 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1338&sca=2020 ··························PASS
 
     수학1 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=2030
-        곱셈 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=965&sca=2030 ·································· ✔
-        숫자의 개수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=706&sca=2030 ··························· ✔
-        약수와 배수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=351&sca=2030 ··························· ✔
-        약수 구하기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=678&sca=2030 ··························· ✔
-        약수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=450&sca=2030 ·································· ✔
+        곱셈 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=965&sca=2030 ··································· ✔
+        숫자의 개수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=706&sca=2030 ···························· ✔
+        약수와 배수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=351&sca=2030 ···························· ✔
+        약수 구하기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=678&sca=2030 ···························· ✔
+        약수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=450&sca=2030 ··································· ✔
         최대공약수와최소공배수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=931&sca=2030 ················· ✔
         최대공약수, 최소공배수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=281&sca=2030 ················· ✔
 
