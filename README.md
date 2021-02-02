@@ -340,12 +340,12 @@ Beginner_Coder : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=20
         최대공약수, 최소공배수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=281&sca=2030 ················· ✔
 
     수학2 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=2040
-        각 자리수의 역과 합(Number Reverse) : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=288&sca=2040
-        소수와 합성수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=452&sca=2040
-        소수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1013&sca=2040
-        소수 구하기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1174&sca=2040
-        소수의 개수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2079&sca=2040
-        이진수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2080&sca=2040
+        각 자리수의 역과 합(Number Reverse) : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=288&sca=2040 ···· ✔
+        소수와 합성수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=452&sca=2040 ·························· ✔
+        소수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1013&sca=2040 ·································· ✔
+        소수 구하기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1174&sca=2040 ··························· ✔
+        소수의 개수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2079&sca=2040 ··························· ✔
+        이진수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2080&sca=2040 ································ ✔
         10진수를 2,8,16진수로 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=806&sca=2040
         진법 변환 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2375&sca=2040
 
