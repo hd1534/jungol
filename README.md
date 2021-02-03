@@ -346,14 +346,14 @@ Beginner_Coder : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=20
         소수 구하기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1174&sca=2040 ··························· ✔
         소수의 개수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2079&sca=2040 ··························· ✔
         이진수 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2080&sca=2040 ································ ✔
-        10진수를 2,8,16진수로 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=806&sca=2040
-        진법 변환 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2375&sca=2040
+        10진수를 2,8,16진수로 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=806&sca=2040 ················ PASS
+        진법 변환 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2375&sca=2040 ··························· PASS
 
     문자열 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=2050
-        그릇 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1865&sca=2050
-        문자열 찾기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1775&sca=2050
-        세로읽기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2119&sca=2050
-        암호풀기(Message Decowding) : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1153&sca=2050
+        그릇 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1865&sca=2050 ·································· ✔
+        문자열 찾기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1775&sca=2050 ··························· ✔
+        세로읽기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2119&sca=2050 ······························ ✔
+        암호풀기(Message Decowding) : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1153&sca=2050 ··········· ?
         단어 세기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=788&sca=2050
         변장 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=3048&sca=2050
 
