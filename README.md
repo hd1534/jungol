@@ -354,11 +354,11 @@ Beginner_Coder : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=20
         문자열 찾기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1775&sca=2050 ··························· ✔
         세로읽기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2119&sca=2050 ······························ ✔
         암호풀기(Message Decowding) : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1153&sca=2050 ··········· ?
-        단어 세기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=788&sca=2050
-        변장 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=3048&sca=2050
+        단어 세기 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=788&sca=2050 ······························ ?
+        변장 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=3048&sca=2050 ······························· PASS
 
     여러가지 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=2060
-        색종이(초) : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=712&sca=2060
+        색종이(초) : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=712&sca=2060 ····························· ✔
         색종이(중) : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=944&sca=2060
         카드게임 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=591&sca=2060
         떡 먹는 호랑이 : http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1270&sca=2060
